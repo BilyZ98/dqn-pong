@@ -1,0 +1,6 @@
+
+torch
+collections:latest
+numpy
+matplotlib
+itertools
